@@ -1,0 +1,24 @@
+.product-info:hover {
+	transition: transform 1s, filter .5s ease-in-out;
+    transform-origin: center center;
+    filter: brightness(50%);
+    filter: brightness(100%);
+    transform: scale(1.10);
+}
+
+.navbar-font-size {
+    font-weight: 600;
+}
+
+.img-fluid {
+    border-radius: 0.9rem;
+}
+
+.card {
+    border-radius: 0.9rem;
+}
+
+html {
+    max-width: 100%;
+    overflow-x: hidden;
+}
